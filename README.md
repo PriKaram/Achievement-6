@@ -5,11 +5,11 @@ Data set: [Indicators of heart Disease](https://www.kaggle.com/datasets/kamilpyt
 
 Content List:
 
-6.1.Data Cleaning
-6.2.Exploring relationships: Correlation matrix heatmap and scatterplot
-6.3.Geographic Visualizations
-6.4.Supervised Machine Learning: Linear regression
-6.5. Supervised Machine Learning: Cluster Analysis
-6.6. Time Series analysis, Stationarizing dataset, Autocorrelation, Forecasting
+- 6.1.Data Cleaning
+- 6.2.Exploring relationships: Correlation matrix heatmap and scatterplot
+- 6.3.Geographic Visualizations
+- 6.4.Supervised Machine Learning: Linear regression
+- 6.5. Supervised Machine Learning: Cluster Analysis
+- 6.6. Time Series analysis, Stationarizing dataset, Autocorrelation, Forecasting
 
 
